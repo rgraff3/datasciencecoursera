@@ -1,4 +1,1 @@
-﻿ ## This is a markdown file
-*Markdown
-*file
-*unordered list
+## This is a markdown file
